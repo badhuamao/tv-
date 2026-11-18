@@ -1,0 +1,168 @@
+{
+  "urls": [
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭太硬主线"
+    },
+    {
+      "url": "http://www.饭太硬.cc/tv",
+      "name": "饭太硬CC"
+    },
+    {
+      "url": "http://www.饭太硬.art/tv",
+      "name": "饭太硬ART"
+    },
+    {
+      "url": "http://fty.888484.xyz/tv",
+      "name": "饭太硬备用1"
+    },
+    {
+      "url": "http://fty.333232.xyz/tv",
+      "name": "饭太硬备用2"
+    },
+    {
+      "url": "http://肥猫.net",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "摸鱼儿"
+    },
+    {
+      "url": "https://9280.kstore.vip/aiwex.json",
+      "name": "AIWEX 1"
+    },
+    {
+      "url": "https://9280.kstore.space/aiwex.json",
+      "name": "AIWEX 2"
+    },
+    {
+      "url": "https://9877.kstore.space/sun.json",
+      "name": "Sun 线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
+      "name": "CatVodSpider"
+    },
+    {
+      "url": "https://9763.kstore.vip/aowu.json",
+      "name": "奥窝线路"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "XC 线路"
+    },
+    {
+      "url": "http://150.158.52.248/tgyg/bbm.json",
+      "name": "BB_M 接口"
+    },
+    {
+      "url": "http://宝盒接口.top",
+      "name": "宝盒接口"
+    },
+    {
+      "url": "http://www.y456y.com",
+      "name": "Y456Y"
+    },
+    {
+      "url": "http://fish.y456y.com",
+      "name": "鱼儿线路"
+    },
+    {
+      "url": "https://zhangqun1818.serv00.net/zq/api.json",
+      "name": "张群线路"
+    },
+    {
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "name": "听话大接口"
+    },
+    {
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "神仙哥哥"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box",
+      "name": "周杰超配置"
+    },
+    {
+      "url": "https://tv.xn--yhqu5zs87a.top",
+      "name": "荷城云"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+      "name": "老王线路"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬"
+    },
+    {
+      "url": "https://clun.top/box.json",
+      "name": "Clun 线路"
+    },
+    {
+      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "夏夜 4K"
+    },
+    {
+      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
+      "name": "凯弟线路 1"
+    },
+    {
+      "url": "https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json",
+      "name": "机缘巧盒凯弟"
+    },
+    {
+      "url": "https://chigua.eu.org",
+      "name": "吃瓜线路"
+    },
+    {
+      "url": "http://xhztv.top/xhz",
+      "name": "小胡子"
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "迷": "樱灭动漫"
+    },
+    {
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+      "name": "Noimank 线路"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+      "name": "高天流云 0827"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "高天流云 JS"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "高天流云 XYQ"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "小虎斑测试"
+    },
+    {
+      "url": "https://play.iptv365.org/香雅情/api.json",
+      "name": "香雅情"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "王二小放牛娃"
+    },
+    {
+      "url": "https://0.wudaozhe.net/5/tv少儿.json",
+      "name": "悟道者少儿"
+    },
+    {
+      "url": "https://3.wudaozhe.net/5/x4.json",
+      "name": "悟道者 X4"
+    },
+    {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/badhuamao/tv-/refs/heads/main/dc",
+      "name": "坏花猫"
+    }
+  ]
+}
